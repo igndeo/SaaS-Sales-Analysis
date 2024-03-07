@@ -1,4 +1,4 @@
-# AWS SaaS Sales Analysis README
+# AWS SaaS Sales Analysis
 
 ## Overview
 
